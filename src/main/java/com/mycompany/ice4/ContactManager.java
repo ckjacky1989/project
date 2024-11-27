@@ -14,6 +14,7 @@ public class ContactManager {
         
             this.contactList=contactList;}
     //hi
+    //this is the comment made on the Friend branch
     /*
 	Locate a Contact record that matches the email address provided.
 	Returns the Contact record if found, null if not found.
